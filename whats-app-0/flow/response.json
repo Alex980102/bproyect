@@ -1,0 +1,34 @@
+{
+    "DEFAULT":{
+        "replyMessage":[
+            "Parece que no pudimos entender tu mensaje \n",
+            "Digita *1* para obtenr mas información \n",
+            "Digita *2* para obtener un correo de contacto"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_0": {
+        "replyMessage": [
+            "0"
+        ],
+        "media": null,
+        "trigger": null
+    },
+    "STEP_1": {
+        "replyMessage":[
+            "Digita *1* para obtenr mas información \n",
+            "Digita *2* para obtener un correo de contacto"
+        ]
+    },
+    "STEP_1_1": {
+        "replyMessage": [
+            "Retornar informacion del proyecto"
+        ]
+    },
+    "STEP_1_2": {
+        "replyMessage": [
+            "Retornar contacto del proyecto"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+[{
+    "keywords":  [
+        "hola",
+        "hola!",
+        "ola",
+        "ole",
+        "inicio",
+        "welcome",
+        "buenos días",
+        "buenas tardes",
+        "buenas noches",
+        "me dieron este número",
+        "venden a crédito",
+        "quisiera saber si venden",
+        "necesito saber"
+    ],
+    "key": "STEP_1"
+},
+{
+    "keywords":  [
+        "info",
+        "1"
+    ],
+    "key": "STEP_1_1"
+},
+{
+    "keywords":  [
+        "contacto",
+        "2"
+    ],
+    "key": "STEP_1_2"
+}
+]
